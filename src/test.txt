@@ -1,0 +1,469 @@
+Copyright 2007 Psychonomic Society, Inc. 70
+Taylor and Lupker (2001) reported a pattern of results
+in a naming task that they referred to as sequential effects.
+Specifically, when randomly mixed sets of easy and
+difficult stimuli were named, latencies were 8–17 msec
+shorter following an easy-to-name stimulus than following
+a difficult-to-name stimulus. Crucially, this pattern
+was essentially independent of the nature of the stimuli
+being named, since the pattern arose when high-frequency
+consistent words were mixed with nonwords, when highand
+low-frequency inconsistent words were mixed, and
+when easy and hard nonwords were mixed.
+The fact that sequential effects were a function only
+of stimulus difficulty, and not of the qualitative nature
+of the stimuli (e.g., words vs. nonwords), led Taylor and
+Lupker (2001) to conclude that their effects were not due
+to trial-to-trial shifts in the way the stimuli were named.
+In particular, they concluded that their sequential effects
+were not due to a shifting of route emphasis within a dualroute
+framework (e.g., Coltheart, Rastle, Perry, Langdon,
+& Ziegler, 2001). The idea that readers have the ability to
+shift route emphasis has received considerable attention
+recently (e.g., Monsell, Patterson, Graham, Hughes, &
+Milroy, 1992; Zevin & Balota, 2000). The specific suggestion
+is that readers can facilitate performance by strategically
+altering route emphasis in anticipation of particular
+stimulus types (e.g., nonwords). There would then be a
+cost if the subsequent stimulus was a different type (e.g.,
+a word). If readers were making changes of this sort in
+Taylor and Lupker’s (2001) experiments, the expectation
+is that sequential effects would have been dependent on
+the nature of the stimuli named on adjacent trials, in contrast
+to the independence that Taylor and Lupker (2001)
+observed.
+Taylor and Lupker (2001) interpreted their results as
+being due to readers’ use of a time criterion (Chateau &
+Lupker, 2003; Kinoshita & Lupker, 2002, 2003; Lupker,
+Brown, & Colombo, 1997) when naming letter strings.
+According to the time criterion account, readers establish
+a point in time at which they expect to respond (their criterion
+placement) and then try to respond when that time
+criterion is reached. Taylor and Lupker (2001) suggested
+two ways in which sequential effects could arise within
+this framework. One way is that participants adjust the
+position of their time criterion on a trial-by-trial basis depending
+on the ease of naming the most recent stimulus.
+For example, following an easy item, the criterion might
+be adjusted to a more strict position, resulting in a faster
+response on the next trial. A second way is that there may
+be changes in how participants perceive the passage of
+time, with stimulus difficulty on one trial affecting time
+perception on the next trial. For example, perceived time
+may pass more quickly after an easy item is responded to.
+Thus, the criterion would be reached sooner on the next
+trial, producing a faster response.
+Recently, Taylor and Lupker (2006) provided evidence
+supporting the idea that time perception processes
+can play a role in speeded response tasks. In Taylor and
+Lupker’s (2006) experiments, participants were asked to
+name stimuli but to delay their naming responses until
+the presented stimulus had been on the computer screen
+for exactly 1 sec. The standard stimulus difficulty effects
+seen in speeded naming (i.e., frequency, lexicality) also
+appeared in this internal-timing task.
+Taylor and Lupker’s (2006) explanation for these results
+is based on the idea that if participants are using a time criterion,
+they must monitor the passage of time in order to
+Sequential effects in time perception
+TAMSEN E. TAYLOR AND STEPHEN J. LUPKER
+University of Western Ontario, London, Ontario, Canada
+Taylor and Lupker (2001) reported that in a naming task, stimuli were named more rapidly when preceded by
+an easy-to-name stimulus than when preceded by a difficult-to-name stimulus (sequential effects). The goal of
+the present research was to investigate whether sequential effects could be explained in terms of time perception
+processes (within the context of Lupker, Brown, and Colombo’s [1997] time criterion account). Participants were
+required to name easy and difficult stimuli (high-frequency words and nonwords in Experiment 1; words only
+in Experiment 2). Each naming trial was followed by a set of asterisks (*****). The participants were required
+to press a button when they thought the asterisks had been presented for exactly 1 sec. Time intervals produced
+after naming difficult stimuli were longer than time intervals produced after naming easy stimuli. That is, time
+perception was affected by the difficulty of word/nonword naming in a way that carried over to the next stimulus,
+supporting the idea that carryover effects in time perception may be the source of sequential effects in the
+naming task.
+SEQUENTIAL EFFECTS IN TIME PERCEPTION 71
+know when the criterion has been reached. Hence, any impact
+of stimulus difficulty on time perception should show
+up in any task in which responding is based on timing operations
+(i.e., according to the time criterion account, in all
+speeded response tasks). In fact, the time perception literature
+contains considerable evidence that people’s time
+perception processes are affected by the difficulty of the
+stimuli being processed and that the direction of these effects
+is consistent with Taylor and Lupker’s (2006) recent
+results. For example, Warm and McCray (1969) presented
+words that varied in frequency and length for exactly
+1 sec. The participants were asked to estimate the duration
+of the stimuli. Warm and McCray observed significant
+effects of word frequency and length on duration estimations,
+with participants perceiving easier words (highfrequency
+and short words) as being presented for a longer
+time than were more difficult words (low-frequency and
+long words), even though all the words were presented for
+1 sec. Thus, time appears to pass more quickly when easy
+stimuli are processed. Similar results have been reported
+by Chastain and Ferraro (1997) and Hochhaus, Swanson,
+and Carter (1991), also using words as stimuli, as well as
+by a number of researchers using other tasks and stimuli
+(e.g., Brown, 1985; Brown, Stubbs, & West, 1992; Casini
+& Macar, 1997; Fortin, Rousseau, Bourque, & Kirouac,
+1993; Hicks, Miller, & Kinsbourne, 1976; McClain, 1983;
+Thomas & Weaver, 1975).
+If stimulus difficulty does influence time perception in
+the way indicated by these findings and if a time criterion
+does control responding in speeded tasks, the implication
+is that time perception processes are likely playing some
+role in those tasks. The present research was an attempt to
+determine whether time perception processes might also
+play a role in producing the sequential effects observed
+by Taylor and Lupker (2001) or whether the sequential
+effects have a different cause, such as trial-by-trial adjustments
+of the time criterion.
+EXPERIMENT 1
+In both experiments, the participants were required to
+perform two alternating tasks. First, they named a presented
+stimulus. After an intertrial interval, they attempted
+to produce a 1-sec interval (by pressing a button) in response
+to a string of asterisks. The timing stimulus (the
+string of asterisks) was identical on all the trials. Therefore,
+any difference in the produced timing intervals would
+presumably have to be due to carryover effects from the
+preceding (naming) trial. If the sequential effects observed
+by Taylor and Lupker (2001) were due to changes in time
+perception, carryover effects in time perception should be
+observed. The participants in Experiment 1 should produce
+shorter time intervals after naming an easy stimulus
+(a high-frequency word) than after naming a difficult
+stimulus (a nonword) (i.e., time would seem to pass more
+rapidly after an easy stimulus had been named). In contrast,
+if sequential effects are due to changing the position
+of the time criterion for naming on a trial-by-trial basis,
+no carryover effects onto timing trials would be expected,
+because the participants should be using different criteria
+for the two types of trials. That is, they would be using a
+criterion designed to time a 1-sec interval on timing trials
+and a criterion that maximizes speeded-naming performance
+on naming trials.
+Method
+Participants. Fifty-three undergraduate students received course
+credit in an introductory psychology course for their participation
+in this experiment. The participants reported having normal or
+corrected-to-normal vision and being native speakers of English.
+Apparatus. The stimuli were presented on an IBM clone computer
+system (Trillium Computer Resources Model 316S-80MS),
+with a TTX Multiscan Monitor (Model 3435P). Both a microphone
+and a button box were used to record responses. The experimenter
+was present to record naming errors.
+Stimuli. The easy stimuli were 30 high-frequency words.
+ The difficult stimuli were 30 pronounceable nonwords
+(stimuli available at psychonomic.org/archive; see archived materials
+for Taylor & Lupker, 2006). The stimuli were presented in a different
+random order for each participant. The participants received
+six practice trials, and these practice trials were always presented in
+the same order.
+Procedure. The participants were tested individually. They were
+told that two types of trials would be presented in a strictly alternating
+fashion. First, they would be presented with a letter string, which
+they were to read aloud as quickly and as accurately as possible.
+Following each naming trial, a row of asterisks (*****) would appear
+on the computer screen. They should press a key on the button
+box when they thought that the asterisks had been on the screen for
+exactly 1 sec.
+An attempt was made to constrain timing responses to a reasonable
+approximation of 1 sec by presenting a high-pitched warning tone
+when responses were faster than 500 msec and presenting a lower
+pitched warning tone when responses were slower than 1,500 msec.
+The participants were instructed to use the tones as feedback and to
+adjust their timing performance appropriately. Next, the six practice
+trials were presented. The experimental trials followed.
+Initially, a fixation cross appeared in the middle of the screen,
+remaining until the experiment was complete. The stimuli were presented
+centered above the cross and remained until the letter string
+was named or the button box registered a timing response. Naming
+and timing trials strictly alternated. There was a 2-sec interval between
+the participant's response and an auditory cue indicating that
+the next trial was about to begin. The stimulus was presented 1 sec
+after the cue (for a total intertrial interval of 3,000 msec). An auditory
+cue was employed because it had also been used in the sequential
+effects experiments reported in Taylor and Lupker (2001).
+Results
+Data trimming. Trials on which naming responses
+were incorrect were eliminated from the latency analyses
+(2.6% of the word trials and 8.2% of the nonword trials). A
+trial was considered an outlier and omitted from the latency
+analyses if the naming latency was less than 150 msec or
+greater than 1,500 msec (no trials had latencies that were
+less than 150 msec; 0.1% of the high-frequency word trials
+and 0.9% of the nonword trials had latencies that were
+greater than 1,500 msec). Timing trials were considered
+outliers if latencies were less than 500 msec (6.5% of
+the trials for both words and nonwords) or greater than
+1,500 msec (0.4% of the trials for words and 1.3% of the
+trials for nonwords). Timing outliers were replaced with
+the cutoff latency (i.e., 500 or 1,500 msec).
+72 TAYLOR AND LUPKER
+Comparison. We used t tests to compare naming latencies
+for high-frequency words and nonwords, as well
+as timing latencies produced after each type of naming
+trial. The means are presented in Table 1. Naming latencies
+for high-frequency words were shorter than naming
+latencies for nonwords [tS(52) ? 8.53, p ? .001; tI(58) ?
+9.39, p ? .001]. The difference between timing latencies
+following high-frequency words versus nonwords was
+also significant [tS(52) ? 2.94, p ? .01; tI(58) ? 3.16,
+p ? .01]. The correlation between mean naming latency
+and mean timing latency for all the items was also significant
+[r(60) ? ?.58; t(58) ? 5.42, p ? .001, one-tailed],
+as was the correlation for nonwords alone [r(30) ? ?.64;
+t(28) ? 4.41, p ? .001, one-tailed], but not for words alone
+[r(30) ? ?.06; t(28) ? 0.32, n.s.].
+Discussion
+As expected, naming latencies for high-frequency
+words were significantly shorter than naming latencies
+for nonwords. More importantly, this difference carried
+over, as indicated by the significantly shorter timing durations
+following words than following nonwords and the
+significant positive correlation between naming latencies
+and subsequent timing latencies. This timing difference
+occurring after easy versus difficult stimuli supports the
+idea that the difficulty of naming an item influences time
+perception and that whatever changes in time perception
+arise during a naming trial last at least 3 sec. Thus, these
+results suggest that a time perception account of sequential
+effects is to be preferred to an account based on trialby-
+trial alterations in the position of the time criterion.
+Although the results of Experiment 1 provide evidence
+that time perception is influenced by the difficulty of the
+stimulus being named and that the effect lasts at least 3 sec,
+one could argue that this effect may have been an artifact
+of using nonwords as the difficult stimuli. For example,
+the participants may have continued to think about whether
+their nonword pronunciation was correct, distracting them
+from the timing task. Indeed, the correlation between
+naming and timing latencies for words alone was not significant,
+although this was probably due to the severe restriction
+of range on naming latencies for high-frequency
+words. Experiment 2 involved an identical task alternation
+manipulation; however, only words (of varying difficulty)
+were used, in order to examine this possible alternative
+explanation. Because sequential effects in naming are
+typically small (8–17 msec), it was necessary to produce
+a large range of word-naming times. As such, the selected
+words varied dramatically on both frequency and length.
+EXPERIMENT 2
+Method
+Participants. Forty-seven undergraduate students received course
+credit in an introductory psychology course for their participation in
+this experiment. The participants reported having normal or correctedto-
+normal vision and being native speakers of English. Seven of these
+participants were not included in the analysis because their combined
+mechanical and naming error rate was greater than 30%.
+Stimuli, Apparatus, and Procedure. The stimuli consisted
+of 84 words, ranging from 3 to 14 letters in length and from 0 to
+451,298 in frequency (HAL norms from elexicon database; stimuli available at psychonomic.org/archive; see archived
+materials for Taylor & Lupker, 2006). Items were selected so
+that a wide range of naming times would be produced. To aid this
+process, the elexicon.wustl.edu Web site  was
+consulted. All other aspects of the procedure and apparatus were the
+same as those in Experiment 1.
+Results
+Data trimming. Trials in which the naming response
+was incorrect were eliminated from the latency analyses
+(10.0% of the trials). A trial was considered an outlier
+and omitted from the latency analyses if the naming latency
+was less than 150 msec or greater than 2,000 msec
+(no trials had latencies less than 150 msec; on 2.6% of
+the trials, latencies were greater than 2,000 msec). Timing
+trials were considered outliers if latencies were less than
+500 msec (2.1% of the trials) or greater than 1,500 msec
+(2.7% of the trials). Timing outliers were replaced with the
+cutoff latency (i.e., 500 or 1,500 msec).
+In addition, error rates for individual items were examined,
+and any item for which more than 30% of the
+trials were errors (including microphone and pronunciation
+errors) were removed from the analysis. Eleven items
+were removed (contaminate, electrocution, premeditation,
+indoctrination, preservative, extenuating, resuscitate,
+wherewithal, companionable, senility, and intransitive).
+Comparison. A correlation was perfvormed to determine
+whether naming latency was related to the duration
+of the produced interval. The correlation between mean
+naming latency and mean timing latency was significant
+[r(73) ? ?.27; t(71) ? 2.36, p ? .05, one-tailed].
+Discussion
+Consistent with the results of Experiment 1, word naming
+latencies in Experiment 2 were significantly related
+to timing durations. This relationship between naming
+latency and timing duration supports the idea that the difficulty
+of naming an item influences time perception and
+that whatever changes in time perception arise during a
+Table 1
+Mean Latencies (RTs, in Milliseconds) As a Function of Condition
+and Stimulus Type in Experiment 1
+Naming Timing
+RT RT
+Stimulus Type M SD ER M SD Too Fast Too Slow
+High-frequency regular words 623 98.6 2.0% 789 146.4 6.5% 0.4%
+Nonwords 722 168.4 8.2% 806 158.4 6.5% 1.3%
+Note—ER, error rate.
+SEQUENTIAL EFFECTS IN TIME PERCEPTION 73
+naming trial last at least 3 sec. As in Experiment 1, these
+results support a time perception account of Taylor and
+Lupker’s (2001) sequential effects, while providing no
+support for their alternative explanation of sequential effects,
+that there are trial-by-trial alterations in the position
+of the time criterion.
+GENERAL DISCUSSION
+The results of the present experiments support the idea
+that the sequential effects observed by Taylor and Lupker
+(2001) were time perception effects. In fact, the size of
+the timing sequential effect observed in Experiment 1 is
+virtually identical to the size of the naming sequential effects
+in Taylor and Lupker’s (2001) experiments.
+The obvious next question is, what is the mechanism
+underlying these influences on time perception? The predominant
+explanation of stimulus difficulty effects on
+time perception is that they are due to attentional resource
+demands. In general, cognitive models of time perception
+include an internal clock (the exact location and nature of
+which are usually unspecified) that produces “ticks” at
+regular enough intervals that they can be used to monitor
+the passage of time reasonably accurately, a “counter” that
+registers these ticks, and some sort of memory mechanism
+to keep track of how many ticks occurred during a specified
+interval (as a standard for comparison). It is assumed
+that there is a strong positive correlation between the number
+of ticks counted and perceived duration (i.e., the more
+ticks counted, the longer the interval is perceived to be). It
+is also assumed that attention is required in order to accurately
+count ticks. When attention is allocated elsewhere
+(e.g., to word reading), the tendency is to miss ticks, and
+therefore, the elapsed time is underestimated. Thus, Warm
+and McCray (1969) explained their results by arguing that
+because longer/low-frequency words are harder to process
+than shorter/high-frequency words, participants could not
+devote as much attention to monitoring the passage of
+time when processing longer/low-frequency words. As a
+result, time appeared to pass more slowly when longer/
+low-frequency words were processed.
+The attention allocation account provides a perfectly adequate
+explanation for online effects of stimulus difficulty
+on time perception—that is, those effects that occur during
+that period of time in which both stimulus processing
+and timing operations are taking place. However, the attention
+allocation account does not predict carryover effects
+in time perception such as those observed here, because
+once stimulus processing is complete (e.g., after the word
+or nonword has been named), the allocation of attention
+will be controlled only by the processing of the subsequent
+stimulus (i.e., the asterisks; see Fortin et al., 1993).
+Assuming the same general structures (i.e., an internal
+clock, a counter, and a memory mechanism), a second way
+in which processing difficulty could affect time perception
+would be through a change in the tick rate of the internal
+clock. Factors such as physiological arousal have been
+proposed to influence internal clock speed through such
+a mechanism (e.g., Block, 1990). To account for Warm
+and McCray’s (1969) results, the argument would be that
+the more difficult processing was, the slower the tick rate
+would be. Again, as a result, time would appear to pass more
+slowly while more difficult stimuli were processed (i.e.,
+fewer ticks would occur during the processing interval).
+In contrast to the attention allocation account, the clock
+speed account might be able to explain sequential effects
+if it were the case that changes in tick rate carry over from
+one trial to another. As has been noted, changes in tick rate
+are typically proposed to be due to changes in physiological
+arousal. Researchers have attempted to manipulate physiological
+arousal (and thereby manipulate clock speed) in
+many ways, including presenting beeps before a stimulus
+to increase arousal (e.g., Wearden, Philpott, & Win, 1999),
+increasing arousal by inducing stress (e.g., Ozel, Larue,
+& Dosseville, 2004), and increasing emotional arousal
+(e.g., Droit-Volet, Brunot, & Niedenthal, 2004). In all of
+these cases, changes in physiological arousal do appear to
+be relatively long-lasting. Thus, these changes in arousal
+could certainly last through a typical interstimulus interval,
+potentially explaining the trial-by-trial sequential effects
+observed by Taylor and Lupker (2001).
+Note, however, that the typical effect of physiological
+arousal is in the opposite direction to that which would
+be expected from the nature of the sequential effects observed
+by Taylor and Lupker (2001). That is, in Taylor and
+Lupker’s (2001) experiments, participants responded more
+slowly to an item preceded by a difficult item. This result
+could be explained only as an effect of physiological
+arousal if it could be assumed that difficult items cause the
+internal clock to slow down. Logically, however, difficult
+stimuli would seem to be more arousing than easy stimuli.
+Thus, if anything, difficult stimuli should increase physiological
+arousal and clock speed, rather than decreasing it.
+At present, then, it does not appear that either an attention
+allocation account or a clock speed account, as currently
+conceived, could provide an explanation of Taylor
+and Lupker’s (2001) results. Although it is possible that either
+account could be modified to explain those results, the
+clock speed account would seem to have slightly more potential.
+Two issues would need to be addressed. First, there
+must be a mechanism that allows the speed of the clock to
+shift somewhat rapidly. Second, and more importantly, this
+shifting mechanism must work in the way required by the
+data. That is, the mechanism must slow down the clock as
+a result of difficult processing, rather than speed it up.
+The situation is even less promising for attention allocation
+accounts. To explain carryover effects in time
+perception, an attention allocation account must provide
+some means by which stimulus difficulty effects on time
+perception remain after processing is complete. Although
+current attention allocation accounts do not appear to
+allow for this possibility (e.g., Fortin et al., 1993), there
+are results from a number of other paradigms suggesting
+that longer lasting changes in attention allocation do occur.
+For example, Tipper, Grison, and Kessler (2003) showed
+evidence that attention was less likely to be allocated to a
+previously seen stimulus that was ignored (inhibition of
+return), an effect which lasted for at least 3 min. Thus, it is
+74 TAYLOR AND LUPKER
+not impossible that there would be a mechanism that could
+produce long-term effects on attention allocation, leading
+to carryover effects in time perception.
+The present data, coupled with Taylor and Lupker’s
+(2006) results, provide strong evidence that time perception
+processes play an important role in speeded-response
+tasks. However, one should note that sequential effects,
+the focus of the present investigation, are relatively small
+effects. Furthermore, in a stimulus block containing varied
+stimuli, stimulus randomization would mean that sequential
+effects probably will not affect the various stimulus
+conditions differentially. Thus, in a practical sense, the
+impact of these effects on the means of the various conditions
+in a mixed block will be quite small. In contrast, the
+impact of sequential effects on latencies in pure blocks
+of easy and hard stimuli may be more noticeable, due to
+the fact that each stimulus in a pure block of easy stimuli
+will benefit from having an easy stimulus preceding it
+(and vice versa). Nonetheless, from the perspective of the
+time criterion account, what is probably more important in
+terms of affecting mean latencies are the changes in criterion
+position, from trial block to trial block, as a function
+of the difficulty of the stimuli in that block.
+In summary, the present results demonstrate that the difficulty
+of stimulus processing affects time perception after
+the stimulus has disappeared. This fact, together with the
+principles outlined in Lupker et al.’s (1997) time criterion
+account, is consistent with the notion that the sequential
+effects in naming reported by Taylor and Lupker (2001) are
+the result of carryover effects of stimulus difficulty on time
+perception and are not due to trial-by-trial shifts in the position
+of the time criterion. In addition, because the currently
+held ideas about how time perception is affected by stimulus
+difficulty—the attention allocation and clock speed accounts—
+cannot explain carryover effects in time perception,
+the present research also suggests that researchers
+should consider ways to expand time perception theories.
+AUTHOR NOTE
+This research was based on a dissertation presented by the first author
+in partial fulfillment of the requirements for a Ph.D. at the University of
+Western Ontario. This work was partially supported by Natural Sciences
+and Engineering Research Council of Canada Grant A6333 to the second
+author. We thank John Wearden, Mike Cortese, and an anonymous
+reviewer for their comments on an earlier draft of the manuscript. Correspondence
+concerning this article should be addressed to S. J. Lupker,
